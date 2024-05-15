@@ -1,0 +1,13 @@
+.page-admin {
+	padding: 30px;
+}
+
+.page-admin__title {
+	margin-bottom: 30px;
+}
+
+.page-admin__item {
+	font-size: 38px;
+	margin-bottom: 15px;
+	color: #000;
+}

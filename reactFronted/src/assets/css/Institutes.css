@@ -1,0 +1,7 @@
+.page-admin__button {
+	display: inline-flex !important;
+	margin-bottom: 30px !important;
+	font-size: 26px !important;
+	padding: 5px 15px !important;
+	margin-right: 15px !important;
+}
